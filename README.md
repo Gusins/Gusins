@@ -2,7 +2,7 @@
 
 I am a passionate Front-end developer. I have knowledge of HTML, CSS, and JavaScript and the ability to create aesthetic and responsive designs that inspire users. I have worked on projects (which you can see below) that required attention to detail and a quick response to changes. I am looking for an opportunity to enrich the project with my skills and experience, collaborate with a talented team, and contribute to the development of innovative products.
 
-- 🌱 I’m currently deep learning **JavaScript**
+- 🌱 I’m currently deep learning **REACT**
 
 - 📫 How to reach me **flatroniym@gmail.com**
 
